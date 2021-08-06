@@ -1,0 +1,2 @@
+python melody_rnn_generate.py --config=basic_rnn --bundle_file=basic_rnn.mag
+python melody_rnn_generate.py --config=lookback_rnn --bundle_file=lookback_rnn.mag
